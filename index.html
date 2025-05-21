@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Agenda Digital</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,700;1,700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./main.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <div class="icon-agenda">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="#009432">
+                    <path d="M17 3h4a1 1 0 0 1 1 1v16a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1h4V1h2v2h6V1h2v2zm-2 2H9v2H7V5H4v4h16V5h-3v2h-2V5zm5 6H4v8h16v-8z"/>
+                </svg>
+            </div>
+            <h1>Agenda Digital</h1>
+        </header>
+        <form id="form-contato">
+            <input type="text" id="nome-contato" required placeholder="Nome completo">
+            <input type="email" id="email-contato" required placeholder="E-mail">
+            <input type="tel" id="telefone-contato" required placeholder="Telefone">
+            <button type="submit">Cadastrar</button>
+        </form>
+        <table cellspacing="0">
+            <thead>
+                <tr>
+                    <th>Nome</th>
+                    <th>E-mail</th>
+                    <th>Telefone</th>
+                    <th>Ações</th>
+                </tr>
+            </thead>
+            <tbody id="corpo-tabela">
+                
+            </tbody>
+            <tfoot>
+                <tr>
+                    <td colspan="4" id="total-contatos">Total de contatos: 0</td>
+                </tr>
+            </tfoot>
+        </table>
+    </div>
+    <footer>
+        Desenvolvido com 💻 por <strong>Rafael Mendes</strong> para <strong>EBAC</strong>
+    </footer>
+    <script src="./main.js"></script>
+</body>
+</html>
