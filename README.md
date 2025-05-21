@@ -1,12 +1,12 @@
-# 📅 Agenda Digital | Projeto 2
+# 📒 Agenda Digital Simples | Projeto 2
 
-[![Deploy](https://img.shields.io/badge/Deploy-Vercel-34D399?style=for-the-badge&logo=vercel&logoColor=white)](https://calculador-media-five.vercel.app/)
+[![Deploy](https://img.shields.io/badge/Deploy-Vercel-34D399?style=for-the-badge&logo=vercel&logoColor=white)](https://calculador-media-git-projeto2-rafaelmendes244s-projects.vercel.app/)
 [![Author](https://img.shields.io/badge/Autor-Rafael%20Mendes-0A66C2?style=for-the-badge&logo=github)](https://github.com/RafaelMendes244)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-faelmendesdev-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/fael-mendesdev/)
 
 ---
 
-## ✨ Visite agora!
+## ✨ Teste agora!
 
 ➡️ **[Clique aqui para acessar o app online!](https://calculador-media-git-projeto2-rafaelmendes244s-projects.vercel.app/)**
 
@@ -14,9 +14,8 @@
 
 ## 📖 Sobre o Projeto
 
-A **Agenda Digital** é uma aplicação web desenvolvida para ajudar você a organizar tarefas, compromissos e anotações do dia a dia de forma simples, visual e eficiente.
-
-Ideal para quem busca praticidade na organização de rotina escolar, profissional ou pessoal.
+A **Agenda Digital Simples** é uma aplicação web criada para facilitar o cadastro e visualização rápida de contatos, como nome, e-mail e número de celular.  
+Ideal para quem deseja organizar uma lista de contatos de forma prática e totalmente online!
 
 ---
 
@@ -24,18 +23,17 @@ Ideal para quem busca praticidade na organização de rotina escolar, profission
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/193648534/placeholder-image-demo.gif" alt="Demonstração da Agenda Digital" width="600"/>
-  <!-- Troque o link acima por um GIF ou screenshot real do seu projeto -->
 </p>
 
 ---
 
 ## 🚀 Funcionalidades
 
-- ✅ Adicione tarefas, eventos e lembretes facilmente
-- ✅ Visualize compromissos diários, semanais ou mensais
-- ✅ Edite e exclua registros rapidamente
-- ✅ Interface responsiva (PC, tablet, smartphone)
-- ✅ Design limpo e intuitivo
+- ✅ Cadastro de nome, e-mail e número de celular
+- ✅ Visualização dos contatos cadastrados
+- ✅ Interface simples, leve e responsiva
+- ✅ Remoção fácil de contatos
+- ✅ Totalmente gratuito e online
 
 ---
 
@@ -51,10 +49,10 @@ Ideal para quem busca praticidade na organização de rotina escolar, profission
 
 ## 👨‍💻 Como usar
 
-1. **Acesse:** [calculador-media-five.vercel.app](https://calculador-media-five.vercel.app/)
-2. **Adicione** tarefas, compromissos ou lembretes usando o formulário.
-3. **Gerencie** seus itens: edite, marque como concluído ou exclua conforme desejar.
-4. **Visualize** seus compromissos organizados por data.
+1. **Acesse:** [calculador-media-git-projeto2-rafaelmendes244s-projects.vercel.app](https://calculador-media-git-projeto2-rafaelmendes244s-projects.vercel.app/)
+2. **Cadastre** um novo contato preenchendo nome, e-mail e número de celular.
+3. **Visualize** seus contatos imediatamente após cadastrar.
+4. **Remova** um contato quando desejar, clicando no botão correspondente.
 
 ---
 
