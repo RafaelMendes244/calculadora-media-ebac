@@ -8,7 +8,7 @@
 
 ## ✨ Visite agora!
 
-➡️ **[Clique aqui para acessar o app online!](https://calculador-media-five.vercel.app/)**
+➡️ **[Clique aqui para acessar o app online!](https://calculador-media-git-projeto2-rafaelmendes244s-projects.vercel.app/)**
 
 ---
 
